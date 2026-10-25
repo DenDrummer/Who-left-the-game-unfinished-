@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://20jl8jq1c14"]
+
+[ext_resource type="Script" uid="uid://bjbss8her62t6" path="res://Code/Scripts/UnfinishedGame.cs" id="1_3fcqn"]
+
+[node name="Node" type="Node" unique_id=403950805]
+script = ExtResource("1_3fcqn")

@@ -10,9 +10,9 @@ grow_horizontal = 2
 grow_vertical = 2
 theme = ExtResource("1_kex23")
 
-[node name="CenterContainer" type="CenterContainer" parent="." unique_id=338604656]
+[node name="MarginContainer" type="MarginContainer" parent="." unique_id=2127628573]
 layout_mode = 2
-
-[node name="MarginContainer" type="MarginContainer" parent="CenterContainer" unique_id=1449570244]
-custom_minimum_size = Vector2(400, 500)
-layout_mode = 2
+theme_override_constants/margin_left = 25
+theme_override_constants/margin_top = 25
+theme_override_constants/margin_right = 25
+theme_override_constants/margin_bottom = 25

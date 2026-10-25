@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Index",
@@ -27,10 +27,31 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#Currencies",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Conversions",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Info",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -39,6 +60,6 @@
   "repelStrength": 8.99822169531713,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.36288736930121146,
+  "scale": 0.25883865621816243,
   "close": true
 }

@@ -10,9 +10,14 @@
     "highTextContrast": true
   },
   "knownTags": {
+    "conversions": 5,
+    "currencies": 4,
     "index": 1,
+    "info": 6,
     "story": 3,
     "upgrades": 2,
+    "conversions/currencies": 1,
+    "index/conversions": 3,
     "index/upgrades": 2,
     "upgrades/buttons": 3,
     "upgrades/graphics": 4,
