@@ -35,8 +35,8 @@ isInCallout: false
 useWikilinks: true
 ```
 <span class="fv-link-list-start" id="b831d509-4f58-4469-9346-7a3401b1222d"></span>
+- [[Story/Story.md|Story]] <span class="fv-link-list-item"></span>
 - [[Upgrades/Upgrades.md|Upgrades]] <span class="fv-link-list-item"></span>
-- [[Intro.md|Intro]] <span class="fv-link-list-item"></span>
 <span class="fv-link-list-end" id="b831d509-4f58-4469-9346-7a3401b1222d"></span>
 ## Inspiration
 - Upgrade Complete (Armor Games)

@@ -33,4 +33,7 @@ isInCallout: false
 useWikilinks: true
 ```
 <span class="fv-link-list-start" id="bbdf75b8-353a-4396-9be2-c98f57d3e5b6"></span>
+- [[Upgrades/Graphics Upgrades/Button GFX.md|Button GFX]] <span class="fv-link-list-item"></span>
+- [[Upgrades/Graphics Upgrades/Menu Background GFX.md|Menu Background GFX]] <span class="fv-link-list-item"></span>
+- [[Upgrades/Graphics Upgrades/Mouse GFX.md|Mouse GFX]] <span class="fv-link-list-item"></span>
 <span class="fv-link-list-end" id="bbdf75b8-353a-4396-9be2-c98f57d3e5b6"></span>

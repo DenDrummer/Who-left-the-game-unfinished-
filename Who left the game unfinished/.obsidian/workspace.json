@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro.md",
+                "file": "Story/Intro.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,6 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Story/Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,18 +206,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "8bcc7c15192f294d",
+  "active": "82595c03dc8c832c",
   "lastOpenFiles": [
-    "Intro.md",
+    "Story/Story.md",
     "Who left the game unfinished.md",
-    "Upgrades/Button Upgrades/Button Upgrades.md",
-    "Untitled/Untitled.md",
-    "Untitled",
-    "Upgrades/Button Upgrades/Play Button.md",
-    "Upgrades/Button Upgrades/Upgrades Button.md",
-    "Upgrades/Button Upgrades/Exit Button.md",
+    "Story/Intro.md",
     "Upgrades/Button Upgrades/Shop Button.md",
+    "Story",
+    "Upgrades/Button Upgrades/Exit Button.md",
+    "Upgrades/Button Upgrades/Upgrades Button.md",
+    "Upgrades/Button Upgrades/Button Upgrades.md",
     "Upgrades/Graphics Upgrades/Graphics Upgrades.md",
+    "Upgrades/Graphics Upgrades/Menu Background GFX.md",
+    "Upgrades/Graphics Upgrades/Button GFX.md",
+    "Upgrades/Graphics Upgrades/Mouse GFX.md",
+    "Upgrades/Button Upgrades/Play Button.md",
     "Upgrades/Button Upgrades",
     "Upgrades/Upgrades.md",
     "Upgrades/Music Upgrades/Music Upgrades.md",

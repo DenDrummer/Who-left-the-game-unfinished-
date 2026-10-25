@@ -1,0 +1,4 @@
+---
+tags:
+  - Upgrades/Graphics
+---

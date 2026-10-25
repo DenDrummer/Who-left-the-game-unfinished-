@@ -3,7 +3,7 @@ tags:
   - Upgrades/Buttons
 ---
 Unlocks various Upgrades
-## First Level
-- [[Exit Button]]
-- [[Shop Button]]
+## Upgrade 1
+FREE
+### Unlocks
 - [[Play Button]]
