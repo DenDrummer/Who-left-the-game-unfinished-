@@ -12,17 +12,22 @@
   "knownTags": {
     "conversions": 5,
     "currencies": 4,
+    "game_modes": 8,
     "index": 1,
     "info": 6,
     "story": 3,
     "upgrades": 2,
     "conversions/currencies": 1,
     "index/conversions": 3,
+    "index/game_modes": 5,
     "index/upgrades": 2,
     "upgrades/buttons": 3,
+    "upgrades/gameplay": 5,
     "upgrades/graphics": 4,
     "upgrades/music": 2,
-    "upgrades/sfx": 1
+    "upgrades/sfx": 1,
+    "index/game_modes/tower_defense": 1,
+    "index/game_modes/tower_defense/towers": 1
   },
   "tagColors": {},
   "_version": 4

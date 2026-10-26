@@ -11,8 +11,12 @@ config_version=5
 [application]
 
 config/name="Who left the game unfinished?"
+config/version="0.0.1"
 run/main_scene="uid://btll8oonrrebc"
 config/features=PackedStringArray("4.7", "C#", "Forward Plus")
+run/max_fps=60
+boot_splash/show_image=false
+boot_splash/use_filter=false
 config/icon="res://icon.svg"
 
 [autoload]
@@ -31,10 +35,13 @@ project/assembly_name="Who left the game unfinished-"
 
 [physics]
 
+2d/run_on_separate_thread=true
+3d/run_on_separate_thread=true
 3d/physics_engine="Jolt Physics"
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
 scaling_3d/mode=5
 scaling_3d/mode.ios=5

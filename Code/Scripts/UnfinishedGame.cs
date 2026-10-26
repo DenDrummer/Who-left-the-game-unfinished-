@@ -1,19 +1,33 @@
 using Godot;
 using Godot.Collections;
+using System.Collections.Generic;
 
 public partial class UnfinishedGame : Node
 {
     [Export]
-    Array<Currency> Currencies = 
-        [
-            new("copper"),
-            new("silver"),
-            new("gold"),
-            new("platinum"),
-            new("mythril")
-        ];
+    List<PlayerResource> PlayerResources = [];
+    [Export]
+    List<string> Unlocks = [];
 
-    public override void _Ready()
+    void AddResource(PlayerResource playerResource)
     {
+        PlayerResource resource = PlayerResources.Find(pr => pr.Name == playerResource.Name);
+        if (resource == null)
+        {
+            PlayerResources.Add(playerResource);
+            return;
+        }
+        resource.Amount += playerResource.Amount;
+    }
+
+    void AddResource(string name, ulong amount)
+    {
+        PlayerResource resource = PlayerResources.Find(pr => pr.Name == name);
+        if (resource == null)
+        {
+            PlayerResources.Add(new(name, amount));
+            return;
+        }
+        resource.Amount += amount;
     }
 }

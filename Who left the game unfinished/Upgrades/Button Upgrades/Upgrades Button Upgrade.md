@@ -7,3 +7,4 @@ Unlocks various Upgrades
 FREE
 ### Unlocks
 - [[Play Button]]
+- [[Shop Button]]

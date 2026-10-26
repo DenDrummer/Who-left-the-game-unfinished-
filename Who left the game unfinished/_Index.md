@@ -40,5 +40,6 @@ useWikilinks: true
 - [[Info/Info.md|Info]] <span class="fv-link-list-item"></span>
 - [[Recources/Recources.md|Recources]] <span class="fv-link-list-item"></span>
 - [[Story/Story.md|Story]] <span class="fv-link-list-item"></span>
+- [[Tower Defense|Tower Defense]] <span class="fv-link-list-item"></span>
 - [[Upgrades/Upgrades.md|Upgrades]] <span class="fv-link-list-item"></span>
 <span class="fv-link-list-end" id="b831d509-4f58-4469-9346-7a3401b1222d"></span>
