@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://kvslqfocmfbi"
-path="res://.godot/imported/Road.png-3a0dfdf912d6aee221f7f2642f3503e8.ctex"
+uid="uid://c2gr2lojsedqf"
+path="res://.godot/imported/Water-End.png-89b7d451299d7d24bf37a5679d6250eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tilesets/Tower Defense/TD-V1/Road.png"
-dest_files=["res://.godot/imported/Road.png-3a0dfdf912d6aee221f7f2642f3503e8.ctex"]
+source_file="res://Images/Tilesets/Tower Defense/TD-V1/Water-End.png"
+dest_files=["res://.godot/imported/Water-End.png-89b7d451299d7d24bf37a5679d6250eb.ctex"]
 
 [params]
 

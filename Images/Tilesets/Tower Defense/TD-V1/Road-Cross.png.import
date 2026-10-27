@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bft7p4y4qq00i"
-path="res://.godot/imported/Road-Crossroads.png-f2cdf64a4c115cb1418aeb1c5d6afa22.ctex"
+uid="uid://brlshgc3g8cbv"
+path="res://.godot/imported/Road-Cross.png-8fb9c6086983944b5ce4201417ad150d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tilesets/Tower Defense/TD-V1/Road-Crossroads.png"
-dest_files=["res://.godot/imported/Road-Crossroads.png-f2cdf64a4c115cb1418aeb1c5d6afa22.ctex"]
+source_file="res://Images/Tilesets/Tower Defense/TD-V1/Road-Cross.png"
+dest_files=["res://.godot/imported/Road-Cross.png-8fb9c6086983944b5ce4201417ad150d.ctex"]
 
 [params]
 
